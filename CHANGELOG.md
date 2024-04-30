@@ -1,3 +1,8 @@
+## 0.0.7
+
+* A new library composed by modifying emoji_selector.
+* Optimized the performance of sliding page flip.
+
 ## 0.0.6
 
 * Added support for Emoji version 15.0
@@ -14,7 +19,6 @@
 * Add custom padding.
 * Add custom title.
 
-
 ## 0.0.3
 
 * Minor Fixes in example
@@ -22,7 +26,6 @@
 ## 0.0.2
 
 * Minor Fixes
-
 
 ## 0.0.1
 
