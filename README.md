@@ -6,7 +6,7 @@ A new library composed by modifying emoji_selector.
 
 Optimized the performance of sliding page flip.
 
-![Screenshot of emoji Selector](https://raw.githubusercontent.com/ahyangnb/flutter-flutter_emoji_selector_plus/main/images/flutter_emoji_selector_plus.png?raw=true)
+![Screenshot of emoji Selector](https://github.com/ahyangnb/flutter_emoji_selector_plus/blob/main/images/flutter_emoji_selector_plus.png)
 
 
 ## Getting Started
