@@ -1,11 +1,12 @@
-<a href="https://www.buymeacoffee.com/imalfaizkhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+# Flutter Emoji Selector Plus
 
+Flutter Emoji Selector Plus Selector is an emoji picker component for Flutter.
 
-# Emoji Selector
+A new library composed by modifying emoji_selector.
 
-Emoji Selector is an emoji picker component for Flutter.
+Optimized the performance of sliding page flip.
 
-![Screenshot of emoji Selector](https://raw.githubusercontent.com/Alfaizkhan/flutter-flutter_emoji_selector_plus/main/images/flutter_emoji_selector_plus.png?raw=true)
+![Screenshot of emoji Selector](https://raw.githubusercontent.com/ahyangnb/flutter-flutter_emoji_selector_plus/main/images/flutter_emoji_selector_plus.png?raw=true)
 
 
 ## Getting Started
