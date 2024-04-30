@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   # The state && route && data storage manage plugin.
-  get: 4.6.6
+  get: ^4.6.6
 
 dev_dependencies:
   flutter_test:
