@@ -59,7 +59,7 @@ analysis_benchmark.json
 .pub-cache/
 .pub/
 build/
-flutter_*.png
+#flutter_*.png
 linked_*.ds
 unlinked.ds
 unlinked_spec.ds
