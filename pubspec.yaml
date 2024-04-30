@@ -3,7 +3,7 @@ homepage: https://github.com/ahyangnb/flutter_emoji_selector_plus
 issue_tracker: https://github.com/ahyangnb/flutter_emoji_selector_plus/issues
 description: An Emoji picker component for Flutter with the latest set of emojis. The current version supports Emoji version 15.
 repository: https://github.com/Alfaizkhan/flutter-flutter_emoji_selector_plus
-version: 0.0.6
+version: 0.0.7
 
 environment:
   sdk: ">=2.17.3 <4.0.0"

@@ -14,7 +14,7 @@ Optimized the performance of sliding page flip.
 Declare dependency in your `pubspec.yaml`
 ```yaml
 dependencies:
-    flutter_emoji_selector_plus: ^0.0.6
+    flutter_emoji_selector_plus: ^0.0.7
 ```
 
 You can then easily embed the Emoji Selector Widget anywhere in your application:
