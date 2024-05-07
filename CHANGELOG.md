@@ -1,3 +1,7 @@
+## 0.0.8
+
+* Add a titleStyle property.
+
 ## 0.0.7
 
 * A new library composed by modifying emoji_selector.

@@ -18,6 +18,7 @@ class EmojiSelector extends StatefulWidget {
   final int rows;
   final EdgeInsets padding;
   final bool withTitle;
+  final TextStyle? titleStyle;
   final Function(EmojiData) onSelected;
 
   const EmojiSelector({
@@ -26,6 +27,7 @@ class EmojiSelector extends StatefulWidget {
     this.rows = 5,
     this.padding = EdgeInsets.zero,
     this.withTitle = true,
+    this.titleStyle,
     required this.onSelected,
   });
 
@@ -190,7 +192,7 @@ class _EmojiSelectorState extends State<EmojiSelector>
                     Group selectedGroup = _groups[selectedCategory.value]!;
                     return selectedGroup.title.toUpperCase();
                   }(),
-                  style: const TextStyle(fontSize: 12),
+                  style: widget.titleStyle ?? const TextStyle(fontSize: 12),
                 );
               }),
             ),
