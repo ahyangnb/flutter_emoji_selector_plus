@@ -1,3 +1,7 @@
+## 0.0.9
+
+* Modifier the get version.
+
 ## 0.0.8
 
 * Add a titleStyle property.
